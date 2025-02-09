@@ -169,3 +169,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Jupyter Notebook specifics
+*.Identifier
+
+# data
+fruits-360-original-size/
+o-vs-r-split/
+
