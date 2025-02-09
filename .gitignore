@@ -177,3 +177,6 @@ cython_debug/
 fruits-360-original-size/
 o-vs-r-split/
 
+# ML stuff
+
+*.keras
