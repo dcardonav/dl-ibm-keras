@@ -76,7 +76,7 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+*/.ipynb_checkpoints/
 
 # IPython
 profile_default/
@@ -176,6 +176,10 @@ cython_debug/
 # data
 fruits-360-original-size/
 o-vs-r-split/
+*/data/
+notebooks/dl_pytorch/.fashion/
+notebooks/dl_pytorch/data/
+data/
 
 # ML stuff
 
